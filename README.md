@@ -4,6 +4,7 @@ Translating examples from, "Practical Time Series Forecasting With R" second edi
 - Book Link: https://amzn.to/3KotLYi (Amazon Affiliate Link)
 
 Original code coded in jupyter notebooks (.ipynb) on Python 3.11.4
+
 Intent is to run script sequentially to capture dependencies. 
 
 ## Analytical Ants LLC
