@@ -1,12 +1,18 @@
 # Practical-Time-Series-Forecasting-With-R-Python-Code-
 
-Intent is to translate examples from, "Practical Time Series Forecasting With R" second edition by Galit Shmueli and Kenneth C. Lichtendahl Jr.
+The objective is to convert examples from the second edition of "Practical Time Series Forecasting With R" by Galit Shmueli and Kenneth C. Lichtendahl Jr. into Python.
 
-Original code coded in jupyter notebooks (.ipynb) on Python 3.11.4
-
+## General Comments: 
+- Scripts are in the folder 'Python Code'
+- Data used for scripts are in folder 'Data'
+- Original Python Version 3.11.4
+- Official Data & R scripts found from authors website: https://www.forecastingbook.com/resources
 - Book Link: https://amzn.to/3KotLYi (Amazon Affiliate Link)
 
 ## Analytical Ants LLC
-More information can be found at AnalyticalAnts.co
+Analytical Ants provides systems (“Ants”) that systematically increase operational efficiencies and yields through dynamic data insights, data architecture, and processes.
 
-Contact: info@AnalyticalAnts.co
+We deliver these insights through a holistic approach encompassing a large portion of the data-pipeline, mainly through machine learning, warehousing, and reporting.
+
+For more information, visit AnalyticalAnts.co
+Email: info@AnalyticalAnts.co
